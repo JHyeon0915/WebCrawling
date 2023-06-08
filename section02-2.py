@@ -1,4 +1,5 @@
-# 
+# URLError: represent protocal errors
+# HTTPError: rise when HTTP request returns an unsuccessful status code
 
 import os
 from dotenv import load_dotenv
