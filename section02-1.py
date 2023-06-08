@@ -1,4 +1,6 @@
-# urlretrieve(): returns file that is requested and request header
+# urlretrieve(): 
+# Copy the network object represented as URL for a local file
+# Return the file name that is requested and request header
 
 import urllib.request as req
 
