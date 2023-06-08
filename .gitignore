@@ -2,3 +2,4 @@ lib/
 scripts/
 destination/
 *.cfg
+.env
